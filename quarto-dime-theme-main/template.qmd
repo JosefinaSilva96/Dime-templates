@@ -1,8 +1,8 @@
 ---
-title: "Quarto DIME Theme"
-subtitle: "A minimalist theme for Quarto/Reveal.js presentations for DIME"
-author: "[Bernhard Bieri](https://bernhardbieri.ch)"
-institute: Development Impact Evaluation (DIME)
+title: "Quarto DaTax Theme"
+subtitle: "A minimalist theme for Quarto/Reveal.js presentations for DaTax"
+author: "[Josefina Silva](https://bernhardbieri.ch)"
+institute: DaTax Lab
 date: today
 date-format: "dddd, [the] D[<sup style='font-size:65%;font-style:italic;'>th</sup>] [of] MMMM, YYYY"
 bibliography: bib/template.bib
@@ -22,8 +22,8 @@ format:
     # Turn preview links within the presentation off (all links open in a new tab)
     preview-links: false
     # Logo and footer options
-    logo: "logos/DIME_COLOR.png"
-    footer: "[DIME](https://www.worldbank.org/dime) theme for [Quarto Presentations](https://quarto.org/docs/presentations/revealjs/index.html). Code available on [GitHub](https://github.com/dime-worldbank/quarto-dime-theme)."
+    logo: "logos/DaTax_Logo.png"
+    
 ---
 
 ```{r Setup}
